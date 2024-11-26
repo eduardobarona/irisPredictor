@@ -6,6 +6,8 @@ Este repositorio contiene un análisis completo del **Iris Dataset**, realizado 
 
 El objetivo de este proyecto es analizar el **Iris Dataset**, entrenar un modelo de predicción utilizando **Decision Tree** y crear una aplicación web que permita hacer predicciones sobre el tipo de especie de Iris basándose en las características de las flores (longitud y ancho del sépalo y pétalo). El modelo se desplegó utilizando un backend en **Flask** y una interfaz de usuario en **HTML, CSS, y JavaScript**. La página web permite al usuario ingresar las medidas de una flor de Iris y obtener la predicción de la especie, mostrando además una imagen representativa de la especie predicha.
 
+![prediccionIris](https://github.com/user-attachments/assets/b14ae863-23b2-4597-b182-0647e71bed75) 
+
 ## Estructura del Proyecto
 
 El repositorio está dividido en los siguientes componentes:
